@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Petru</h1>
 <h3 align="center">A passionate computer science student from Romania. Always eager to improve and to develop my skills.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=petruglt" alt="petruglt" /></a> </p>
-
 - 📫 How to reach me **galateanupetru152@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
