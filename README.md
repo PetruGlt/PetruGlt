@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/petru-galateanu" target="_blank">
+  <a href="https://www.linkedin.com/in/petru-galateanu" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="22" alt="linkedin logo"  />
   </a>
   <a href="https://discordapp.com/users/202738849238089729" target="_blank">
